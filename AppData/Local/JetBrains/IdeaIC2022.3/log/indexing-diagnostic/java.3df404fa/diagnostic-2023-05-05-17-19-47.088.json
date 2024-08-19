@@ -1,0 +1,128 @@
+{
+  "appInfo" : {
+    "build" : "223.7571.182",
+    "buildDate" : "2022-11-29T15:36:26.761Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2023-05-05T13:19:47.0885592Z",
+    "os" : "Windows 11 10.0",
+    "runtime" : "JetBrains s.r.o. 17.0.5 17.0.5+1-b653.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2099249152,
+    "numberOfProcessors" : 16,
+    "maxNumberOfIndexingThreads" : 15,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "Java",
+    "times" : {
+      "indexingReason" : "On project open",
+      "scanningType" : "FULL_ON_PROJECT_OPEN",
+      "totalUpdatingTime" : 648236100,
+      "indexingTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "creatingIteratorsTime" : 0,
+      "scanFilesTime" : 647389600,
+      "pushPropertiesTime" : 0,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 0,
+      "updatingStart" : "2023-05-05T13:19:46.4390957Z",
+      "updatingEnd" : "2023-05-05T13:19:47.0874848Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 6,
+      "numberOfScannedFiles" : 42433,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 0
+    },
+    "totalStatsPerFileType" : [ ],
+    "totalStatsPerIndexer" : [ ],
+    "scanningStatistics" : [ {
+      "providerName" : "JDK 11 C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.se, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jdi, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jfr, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.net, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.rmi, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.sql, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.xml, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jcmd, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.pack, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.rmic, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.sctp, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.base, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jdeps, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jlink, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.zipfs, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.prefs, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.attach, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jshell, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jstatd, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.naming, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.editpad, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jartool, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.javadoc, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.xml.dom, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.desktop, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.logging, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.charsets, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.compiler, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.dynalink, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jconsole, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jsobject, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.compiler, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.net.http, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.crypto.ec, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.scripting, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.httpserver, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jdwp.agent, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.localedata, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.management, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.naming.dns, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.naming.rmi, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.instrument, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.management, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.sql.rowset, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.xml.crypto, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.ed, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.le, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.naming.ldap, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.unsupported, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.smartcardio, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.opt, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.datatransfer, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.accessibility, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.crypto.mscapi, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.hotspot.agent, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.security.auth, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.security.jgss, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.security.jgss, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.security.sasl, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.vm.ci, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.management.jfr, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.management.rmi, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.transaction.xa, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.crypto.cryptoki, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.jvmstat, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.management.agent, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.scripting.nashorn, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.unsupported.desktop, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.vm.compiler, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.scripting.nashorn.shell, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Program Files/Java/jdk-11.0.16.1!/java.base, C:/Program Files/Java/jdk-11.0.16.1!/java.compiler, C:/Program Files/Java/jdk-11.0.16.1!/java.datatransfer, C:/Program Files/Java/jdk-11.0.16.1!/java.desktop, C:/Program Files/Java/jdk-11.0.16.1!/java.instrument, C:/Program Files/Java/jdk-11.0.16.1!/java.logging, C:/Program Files/Java/jdk-11.0.16.1!/java.management, C:/Program Files/Java/jdk-11.0.16.1!/java.management.rmi, C:/Program Files/Java/jdk-11.0.16.1!/java.naming, C:/Program Files/Java/jdk-11.0.16.1!/java.net.http, C:/Program Files/Java/jdk-11.0.16.1!/java.prefs, C:/Program Files/Java/jdk-11.0.16.1!/java.rmi, C:/Program Files/Java/jdk-11.0.16.1!/java.scripting, C:/Program Files/Java/jdk-11.0.16.1!/java.se, C:/Program Files/Java/jdk-11.0.16.1!/java.security.jgss, C:/Program Files/Java/jdk-11.0.16.1!/java.security.sasl, C:/Program Files/Java/jdk-11.0.16.1!/java.smartcardio, C:/Program Files/Java/jdk-11.0.16.1!/java.sql, C:/Program Files/Java/jdk-11.0.16.1!/java.sql.rowset, C:/Program Files/Java/jdk-11.0.16.1!/java.transaction.xa, C:/Program Files/Java/jdk-11.0.16.1!/java.xml, C:/Program Files/Java/jdk-11.0.16.1!/java.xml.crypto, C:/Program Files/Java/jdk-11.0.16.1!/jdk.accessibility, C:/Program Files/Java/jdk-11.0.16.1!/jdk.attach, C:/Program Files/Java/jdk-11.0.16.1!/jdk.charsets, C:/Program Files/Java/jdk-11.0.16.1!/jdk.compiler, C:/Program Files/Java/jdk-11.0.16.1!/jdk.crypto.cryptoki, C:/Program Files/Java/jdk-11.0.16.1!/jdk.crypto.ec, C:/Program Files/Java/jdk-11.0.16.1!/jdk.crypto.mscapi, C:/Program Files/Java/jdk-11.0.16.1!/jdk.dynalink, C:/Program Files/Java/jdk-11.0.16.1!/jdk.editpad, C:/Program Files/Java/jdk-11.0.16.1!/jdk.hotspot.agent, C:/Program Files/Java/jdk-11.0.16.1!/jdk.httpserver, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.ed, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.jvmstat, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.le, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.opt, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.vm.ci, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.vm.compiler, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.vm.compiler.management, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jartool, C:/Program Files/Java/jdk-11.0.16.1!/jdk.javadoc, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jcmd, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jconsole, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jdeps, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jdi, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jdwp.agent, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jfr, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jlink, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jshell, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jsobject, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jstatd, C:/Program Files/Java/jdk-11.0.16.1!/jdk.localedata, C:/Program Files/Java/jdk-11.0.16.1!/jdk.management, C:/Program Files/Java/jdk-11.0.16.1!/jdk.management.agent, C:/Program Files/Java/jdk-11.0.16.1!/jdk.management.jfr, C:/Program Files/Java/jdk-11.0.16.1!/jdk.naming.dns, C:/Program Files/Java/jdk-11.0.16.1!/jdk.naming.ldap, C:/Program Files/Java/jdk-11.0.16.1!/jdk.naming.rmi, C:/Program Files/Java/jdk-11.0.16.1!/jdk.net, C:/Program Files/Java/jdk-11.0.16.1!/jdk.pack, C:/Program Files/Java/jdk-11.0.16.1!/jdk.rmic, C:/Program Files/Java/jdk-11.0.16.1!/jdk.scripting.nashorn, C:/Program Files/Java/jdk-11.0.16.1!/jdk.scripting.nashorn.shell, C:/Program Files/Java/jdk-11.0.16.1!/jdk.sctp, C:/Program Files/Java/jdk-11.0.16.1!/jdk.security.auth, C:/Program Files/Java/jdk-11.0.16.1!/jdk.security.jgss, C:/Program Files/Java/jdk-11.0.16.1!/jdk.unsupported, C:/Program Files/Java/jdk-11.0.16.1!/jdk.unsupported.desktop, C:/Program Files/Java/jdk-11.0.16.1!/jdk.xml.dom, C:/Program Files/Java/jdk-11.0.16.1!/jdk.zipfs",
+      "numberOfScannedFiles" : 42199,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 507050400,
+      "scanningTime" : 514369600,
+      "timeProcessingUpToDateFiles" : 152029500,
+      "timeUpdatingContentLessIndexes" : 9375400,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@663d8807' (non-project)",
+      "numberOfScannedFiles" : 225,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 4934700,
+      "scanningTime" : 5090600,
+      "timeProcessingUpToDateFiles" : 1185300,
+      "timeUpdatingContentLessIndexes" : 90300,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'java' (Java)",
+      "numberOfScannedFiles" : 9,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 185100,
+      "scanningTime" : 458100,
+      "timeProcessingUpToDateFiles" : 28200,
+      "timeUpdatingContentLessIndexes" : 5100,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@663d8807' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

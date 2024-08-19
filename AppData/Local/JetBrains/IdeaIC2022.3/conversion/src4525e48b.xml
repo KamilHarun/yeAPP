@@ -1,0 +1,11 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <f p="./.idea\workspace.xml" t="1683289322" />
+    <f p="./.idea\misc.xml" t="1683286778" />
+    <f p="./.idea\modules.xml" t="1683286462" />
+    <f p="./Users.iml" t="1683286462" />
+  </project-files>
+</conversion>

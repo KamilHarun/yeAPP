@@ -1,0 +1,63 @@
+{
+  "appInfo" : {
+    "build" : "223.7571.182",
+    "buildDate" : "2022-11-29T15:36:38.785Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2023-05-05T17:13:54.0462219Z",
+    "os" : "Windows 11 10.0",
+    "runtime" : "JetBrains s.r.o. 17.0.5 17.0.5+1-b653.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2099249152,
+    "numberOfProcessors" : 16,
+    "maxNumberOfIndexingThreads" : 15,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "src",
+    "times" : {
+      "indexingReason" : "changes in: \"JDK openjdk-20 C:/Users/User/.jdks/openjdk-20.0.1!/java.base, C:/Users/User/.jdks/openjdk-20.0.1!/java.compiler, C:/Users/User/.jdks/openjdk-20.0.1!/java.datatransfer, C:/Users/User/.jdks/openjdk-20.0.1!/java.desktop, C:/Users/User/.jdks/openjdk-20.0.1!/java.instrument, C:/Users/User/.jdks/openjdk-20.0.1!/java.logging, C:/Users/User/.jdks/openjdk-20.0.1!/java.management, C:/Users/User/.jdks/openjdk-20.0.1!/java.management.rmi, C:/Users/User/.jdks/openjdk-20.0.1!/java.naming, C:/Users/User/.jdks/openjdk-20.0.1!/java.net.http, C:/Users/User/.jdks/openjdk-20.0.1!/java.prefs, C:/Users/User/.jdks/openjdk-20.0.1!/java.rmi, C:/Users/User/.jdks/openjdk-20.0.1!/java.scripting, C:/Users/User/.jdks/openjdk-20.0.1!/java.se, C:/Users/User/.jdks/openjdk-20.0.1!/java.security.jgss, C:/Users/User/.jdks/openjdk-20.0.1!/java.security.sasl, C:/Users/User/.jdks/openjdk-20.0.1!/java.smartcardio, C:/Users/User/.jdks/openjdk-20.0.1!/java.sql, C:/Users/User/.jdks/openjdk-20.0.1!/java.sql.rowset, C:/Users/User/.jdks/openjdk-20.0.1!/java.transaction.xa, C:/Users/User/.jdks/openjdk-20.0.1!/java.xml, C:/Users/User/.jdks/openjdk-20.0.1!/java.xml.crypto, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.accessibility, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.attach, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.charsets, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.compiler, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.crypto.cryptoki, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.crypto.ec, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.crypto.mscapi, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.dynalink, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.editpad, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.hotspot.agent, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.httpserver, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.incubator.concurrent, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.incubator.vector, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.ed, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.jvmstat, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.le, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.opt, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.vm.ci, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.vm.compiler, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.vm.compiler.management, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jartool, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.javadoc, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jcmd, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jconsole, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jdeps, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jdi, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jdwp.agent, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jfr, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jlink, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jpackage, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jshell, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jsobject, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jstatd, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.localedata, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.management, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.management.agent, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.management.jfr, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.naming.dns, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.naming.rmi, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.net, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.nio.mapmode, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.random, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.sctp, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.security.auth, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.security.jgss, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.unsupported, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.unsupported.desktop, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.xml.dom, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.zipfs\"",
+      "scanningType" : "PARTIAL",
+      "totalUpdatingTime" : 520481500,
+      "indexingTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "creatingIteratorsTime" : 0,
+      "scanFilesTime" : 503877900,
+      "pushPropertiesTime" : 12003400,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 0,
+      "updatingStart" : "2023-05-05T17:13:53.525348Z",
+      "updatingEnd" : "2023-05-05T17:13:54.0452223Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 27269,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 0
+    },
+    "totalStatsPerFileType" : [ ],
+    "totalStatsPerIndexer" : [ ],
+    "scanningStatistics" : [ {
+      "providerName" : "JDK openjdk-20 C:/Users/User/.jdks/openjdk-20.0.1!/java.base, C:/Users/User/.jdks/openjdk-20.0.1!/java.compiler, C:/Users/User/.jdks/openjdk-20.0.1!/java.datatransfer, C:/Users/User/.jdks/openjdk-20.0.1!/java.desktop, C:/Users/User/.jdks/openjdk-20.0.1!/java.instrument, C:/Users/User/.jdks/openjdk-20.0.1!/java.logging, C:/Users/User/.jdks/openjdk-20.0.1!/java.management, C:/Users/User/.jdks/openjdk-20.0.1!/java.management.rmi, C:/Users/User/.jdks/openjdk-20.0.1!/java.naming, C:/Users/User/.jdks/openjdk-20.0.1!/java.net.http, C:/Users/User/.jdks/openjdk-20.0.1!/java.prefs, C:/Users/User/.jdks/openjdk-20.0.1!/java.rmi, C:/Users/User/.jdks/openjdk-20.0.1!/java.scripting, C:/Users/User/.jdks/openjdk-20.0.1!/java.se, C:/Users/User/.jdks/openjdk-20.0.1!/java.security.jgss, C:/Users/User/.jdks/openjdk-20.0.1!/java.security.sasl, C:/Users/User/.jdks/openjdk-20.0.1!/java.smartcardio, C:/Users/User/.jdks/openjdk-20.0.1!/java.sql, C:/Users/User/.jdks/openjdk-20.0.1!/java.sql.rowset, C:/Users/User/.jdks/openjdk-20.0.1!/java.transaction.xa, C:/Users/User/.jdks/openjdk-20.0.1!/java.xml, C:/Users/User/.jdks/openjdk-20.0.1!/java.xml.crypto, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.accessibility, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.attach, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.charsets, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.compiler, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.crypto.cryptoki, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.crypto.ec, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.crypto.mscapi, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.dynalink, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.editpad, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.hotspot.agent, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.httpserver, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.incubator.concurrent, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.incubator.vector, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.ed, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.jvmstat, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.le, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.opt, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.vm.ci, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.vm.compiler, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.internal.vm.compiler.management, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jartool, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.javadoc, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jcmd, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jconsole, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jdeps, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jdi, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jdwp.agent, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jfr, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jlink, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jpackage, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jshell, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jsobject, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.jstatd, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.localedata, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.management, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.management.agent, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.management.jfr, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.naming.dns, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.naming.rmi, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.net, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.nio.mapmode, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.random, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.sctp, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.security.auth, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.security.jgss, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.unsupported, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.unsupported.desktop, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.xml.dom, C:/Users/User/.jdks/openjdk-20.0.1!/jdk.zipfs",
+      "numberOfScannedFiles" : 27269,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 446433700,
+      "scanningTime" : 453946100,
+      "timeProcessingUpToDateFiles" : 116125900,
+      "timeUpdatingContentLessIndexes" : 6527300,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

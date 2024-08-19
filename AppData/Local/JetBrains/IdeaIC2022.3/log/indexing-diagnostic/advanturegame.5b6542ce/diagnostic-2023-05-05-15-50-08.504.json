@@ -1,0 +1,297 @@
+{
+  "appInfo" : {
+    "build" : "223.7571.182",
+    "buildDate" : "2022-11-29T15:36:26.761Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2023-05-05T11:50:08.5045938Z",
+    "os" : "Windows 11 10.0",
+    "runtime" : "JetBrains s.r.o. 17.0.5 17.0.5+1-b653.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2099249152,
+    "numberOfProcessors" : 16,
+    "maxNumberOfIndexingThreads" : 15,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "AdvantureGame",
+    "times" : {
+      "indexingReason" : "On project open",
+      "scanningType" : "FULL_ON_PROJECT_OPEN",
+      "totalUpdatingTime" : 2147761300,
+      "indexingTime" : 14012400,
+      "contentLoadingVisibleTime" : 2976132,
+      "creatingIteratorsTime" : 999900,
+      "scanFilesTime" : 2130159600,
+      "pushPropertiesTime" : 0,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 1476468,
+      "updatingStart" : "2023-05-05T11:50:06.3554156Z",
+      "updatingEnd" : "2023-05-05T11:50:08.5036089Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 6,
+      "numberOfScannedFiles" : 42436,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 6,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 6
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 32178900,
+        "total" : 45687600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1861200,
+        "total" : 9879200
+      },
+      "totalNumberOfFiles" : 5,
+      "totalFilesSize" : 2513,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 2513,
+        "totalTime" : 32178900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'AdvantureGame' (AdvantureGame)",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : 2513,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 32178900,
+          "total" : 32178900
+        }
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalProcessingTime" : {
+        "part" : 13508700,
+        "total" : 45687600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 8018000,
+        "total" : 9879200
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 30,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 30,
+        "totalTime" : 13508700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'AdvantureGame' (AdvantureGame)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 30,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 13508700,
+          "total" : 13508700
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 4923000,
+        "total" : 15753800
+      },
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2513,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2513,
+        "totalTime" : 4923000
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 4191200,
+        "total" : 15753800
+      },
+      "totalNumberOfFiles" : 6,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2543,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2543,
+        "totalTime" : 4191200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 2444500,
+        "total" : 15753800
+      },
+      "totalNumberOfFiles" : 6,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2543,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2543,
+        "totalTime" : 2444500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "java.binary.plus.expression",
+      "partOfTotalIndexingTime" : {
+        "part" : 2423300,
+        "total" : 15753800
+      },
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2513,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2513,
+        "totalTime" : 2423300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "java.fun.expression",
+      "partOfTotalIndexingTime" : {
+        "part" : 946400,
+        "total" : 15753800
+      },
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2513,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2513,
+        "totalTime" : 946400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "java.null.method.argument",
+      "partOfTotalIndexingTime" : {
+        "part" : 825400,
+        "total" : 15753800
+      },
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2513,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2513,
+        "totalTime" : 825400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "JDK 11 C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.se, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jdi, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jfr, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.net, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.rmi, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.sql, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.xml, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jcmd, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.pack, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.rmic, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.sctp, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.base, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jdeps, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jlink, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.zipfs, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.prefs, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.attach, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jshell, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jstatd, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.naming, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.editpad, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jartool, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.javadoc, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.xml.dom, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.desktop, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.logging, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.charsets, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.compiler, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.dynalink, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jconsole, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jsobject, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.compiler, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.net.http, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.crypto.ec, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.scripting, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.httpserver, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.jdwp.agent, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.localedata, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.management, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.naming.dns, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.naming.rmi, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.instrument, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.management, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.sql.rowset, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.xml.crypto, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.ed, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.le, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.naming.ldap, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.unsupported, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.smartcardio, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.opt, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.datatransfer, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.accessibility, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.crypto.mscapi, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.hotspot.agent, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.security.auth, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.security.jgss, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.security.jgss, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.security.sasl, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.vm.ci, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.management.jfr, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.management.rmi, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/java.transaction.xa, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.crypto.cryptoki, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.jvmstat, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.management.agent, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.scripting.nashorn, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.unsupported.desktop, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.vm.compiler, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.scripting.nashorn.shell, C:/Program Files/Java/jdk-11.0.16.1/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Program Files/Java/jdk-11.0.16.1!/java.base, C:/Program Files/Java/jdk-11.0.16.1!/java.compiler, C:/Program Files/Java/jdk-11.0.16.1!/java.datatransfer, C:/Program Files/Java/jdk-11.0.16.1!/java.desktop, C:/Program Files/Java/jdk-11.0.16.1!/java.instrument, C:/Program Files/Java/jdk-11.0.16.1!/java.logging, C:/Program Files/Java/jdk-11.0.16.1!/java.management, C:/Program Files/Java/jdk-11.0.16.1!/java.management.rmi, C:/Program Files/Java/jdk-11.0.16.1!/java.naming, C:/Program Files/Java/jdk-11.0.16.1!/java.net.http, C:/Program Files/Java/jdk-11.0.16.1!/java.prefs, C:/Program Files/Java/jdk-11.0.16.1!/java.rmi, C:/Program Files/Java/jdk-11.0.16.1!/java.scripting, C:/Program Files/Java/jdk-11.0.16.1!/java.se, C:/Program Files/Java/jdk-11.0.16.1!/java.security.jgss, C:/Program Files/Java/jdk-11.0.16.1!/java.security.sasl, C:/Program Files/Java/jdk-11.0.16.1!/java.smartcardio, C:/Program Files/Java/jdk-11.0.16.1!/java.sql, C:/Program Files/Java/jdk-11.0.16.1!/java.sql.rowset, C:/Program Files/Java/jdk-11.0.16.1!/java.transaction.xa, C:/Program Files/Java/jdk-11.0.16.1!/java.xml, C:/Program Files/Java/jdk-11.0.16.1!/java.xml.crypto, C:/Program Files/Java/jdk-11.0.16.1!/jdk.accessibility, C:/Program Files/Java/jdk-11.0.16.1!/jdk.attach, C:/Program Files/Java/jdk-11.0.16.1!/jdk.charsets, C:/Program Files/Java/jdk-11.0.16.1!/jdk.compiler, C:/Program Files/Java/jdk-11.0.16.1!/jdk.crypto.cryptoki, C:/Program Files/Java/jdk-11.0.16.1!/jdk.crypto.ec, C:/Program Files/Java/jdk-11.0.16.1!/jdk.crypto.mscapi, C:/Program Files/Java/jdk-11.0.16.1!/jdk.dynalink, C:/Program Files/Java/jdk-11.0.16.1!/jdk.editpad, C:/Program Files/Java/jdk-11.0.16.1!/jdk.hotspot.agent, C:/Program Files/Java/jdk-11.0.16.1!/jdk.httpserver, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.ed, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.jvmstat, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.le, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.opt, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.vm.ci, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.vm.compiler, C:/Program Files/Java/jdk-11.0.16.1!/jdk.internal.vm.compiler.management, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jartool, C:/Program Files/Java/jdk-11.0.16.1!/jdk.javadoc, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jcmd, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jconsole, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jdeps, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jdi, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jdwp.agent, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jfr, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jlink, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jshell, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jsobject, C:/Program Files/Java/jdk-11.0.16.1!/jdk.jstatd, C:/Program Files/Java/jdk-11.0.16.1!/jdk.localedata, C:/Program Files/Java/jdk-11.0.16.1!/jdk.management, C:/Program Files/Java/jdk-11.0.16.1!/jdk.management.agent, C:/Program Files/Java/jdk-11.0.16.1!/jdk.management.jfr, C:/Program Files/Java/jdk-11.0.16.1!/jdk.naming.dns, C:/Program Files/Java/jdk-11.0.16.1!/jdk.naming.ldap, C:/Program Files/Java/jdk-11.0.16.1!/jdk.naming.rmi, C:/Program Files/Java/jdk-11.0.16.1!/jdk.net, C:/Program Files/Java/jdk-11.0.16.1!/jdk.pack, C:/Program Files/Java/jdk-11.0.16.1!/jdk.rmic, C:/Program Files/Java/jdk-11.0.16.1!/jdk.scripting.nashorn, C:/Program Files/Java/jdk-11.0.16.1!/jdk.scripting.nashorn.shell, C:/Program Files/Java/jdk-11.0.16.1!/jdk.sctp, C:/Program Files/Java/jdk-11.0.16.1!/jdk.security.auth, C:/Program Files/Java/jdk-11.0.16.1!/jdk.security.jgss, C:/Program Files/Java/jdk-11.0.16.1!/jdk.unsupported, C:/Program Files/Java/jdk-11.0.16.1!/jdk.unsupported.desktop, C:/Program Files/Java/jdk-11.0.16.1!/jdk.xml.dom, C:/Program Files/Java/jdk-11.0.16.1!/jdk.zipfs",
+      "numberOfScannedFiles" : 42199,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1482366400,
+      "scanningTime" : 1520841700,
+      "timeProcessingUpToDateFiles" : 543250200,
+      "timeUpdatingContentLessIndexes" : 18377500,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@663d8807' (non-project)",
+      "numberOfScannedFiles" : 225,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 28872000,
+      "scanningTime" : 29420100,
+      "timeProcessingUpToDateFiles" : 3477800,
+      "timeUpdatingContentLessIndexes" : 165900,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'AdvantureGame' (AdvantureGame)",
+      "numberOfScannedFiles" : 12,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 6,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 3067800,
+      "scanningTime" : 18688900,
+      "timeProcessingUpToDateFiles" : 196600,
+      "timeUpdatingContentLessIndexes" : 2000700,
+      "timeIndexingWithoutContent" : 232000,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@663d8807' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'AdvantureGame' (AdvantureGame)",
+      "totalNumberOfIndexedFiles" : 6,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 13763500,
+      "contentLoadingVisibleTime" : 2976132,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 1476468
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.30125241859935736
+  }
+}
