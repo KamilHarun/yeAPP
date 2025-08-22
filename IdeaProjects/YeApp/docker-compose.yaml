@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres
+    restart: always
+    ports:
+      - '5434:5432'
+    environment:
+      - POSTGRES_PASSWORD=password
+    volumes:
+      - yeApp:/var/lib/postgresql/data
+    networks:
+      - yeApp-network
+
+networks:
+  yeApp-network:
+
+volumes:
+  yeApp:

@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    include:
+      - db
+#      - redis
+      - swagger
+#      - resilience
+
+server:
+  port: 8082
