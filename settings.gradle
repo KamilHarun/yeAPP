@@ -1,0 +1,6 @@
+rootProject.name = 'YeApp'
+
+include 'EurekaDiscovery'
+include 'Api-Gateway'
+include 'User-ms'
+include 'Common-ms'
