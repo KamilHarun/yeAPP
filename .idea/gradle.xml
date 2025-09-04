@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/Api-Gateway" />
             <option value="$PROJECT_DIR$/Common-ms" />
             <option value="$PROJECT_DIR$/EurekaDiscovery" />
+            <option value="$PROJECT_DIR$/Menu-ms" />
             <option value="$PROJECT_DIR$/User-ms" />
           </set>
         </option>
@@ -23,6 +24,7 @@
             <option value="$PROJECT_DIR$/Api-Gateway" />
             <option value="$PROJECT_DIR$/Common-ms" />
             <option value="$PROJECT_DIR$/EurekaDiscovery" />
+            <option value="$PROJECT_DIR$/Menu-ms" />
             <option value="$PROJECT_DIR$/User-ms" />
           </set>
         </option>
@@ -35,6 +37,20 @@
             <option value="$PROJECT_DIR$/Api-Gateway" />
             <option value="$PROJECT_DIR$/Common-ms" />
             <option value="$PROJECT_DIR$/EurekaDiscovery" />
+            <option value="$PROJECT_DIR$/Menu-ms" />
+            <option value="$PROJECT_DIR$/User-ms" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Menu-ms" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Api-Gateway" />
+            <option value="$PROJECT_DIR$/Common-ms" />
+            <option value="$PROJECT_DIR$/EurekaDiscovery" />
+            <option value="$PROJECT_DIR$/Menu-ms" />
             <option value="$PROJECT_DIR$/User-ms" />
           </set>
         </option>
@@ -47,6 +63,7 @@
             <option value="$PROJECT_DIR$/Api-Gateway" />
             <option value="$PROJECT_DIR$/Common-ms" />
             <option value="$PROJECT_DIR$/EurekaDiscovery" />
+            <option value="$PROJECT_DIR$/Menu-ms" />
             <option value="$PROJECT_DIR$/User-ms" />
           </set>
         </option>
